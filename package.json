@@ -1,7 +1,7 @@
 {
     "name": "startbrowser",
     "description": "Nuxt.js module to launch the browser with the application when the server starts",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "GPL-3.0",
     "keywords": [
 	"nuxt",
